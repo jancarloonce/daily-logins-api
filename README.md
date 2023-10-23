@@ -9,7 +9,7 @@ both are hosted on AWS. Flask on EC2 instance while Elasticsearch is on Elastic 
 
 A rough diagram shows the flow and tech stack:
 
-![alt text](jancarloonce/th-exam-jancarloonce11/blob/main/diagram.png?raw=true)
+![alt text](https://github.com/jancarloonce/th-exam-jancarloonce11/blob/main/diagram.png)
 
 ## Installs the needed packages
 
@@ -31,24 +31,6 @@ The REST API to the Daily check-ins is described below.
 
     curl -i -H 'Accept: application/json' http://127.0.0.1:8000/users
 
-### Response
-
-    HTTP/1.1 200 OK
-    Date: Thu, 24 Feb 2011 12:36:30 GMT
-    Status: 200 OK
-    Connection: close
-    Content-Type: application/json
-    Content-Length: 2
-
-    []
-
-## Create a new Thing
-
-### Request
-
-`POST /thing/`
-
-    curl -i -H 'Accept: application/json' -d 'name=Foo&status=new' http://localhost:7000/thing
 
 ### Response
 
