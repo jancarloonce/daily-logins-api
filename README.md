@@ -11,6 +11,11 @@ A rough diagram shows the flow and tech stack:
 
 ![alt text](https://github.com/jancarloonce/th-exam-jancarloonce11/blob/main/diagram.png)
 
+# AWS Hosted Service
+
+You can try it LIVE here: http://3.25.177.132:8080/users/
+
+
 ## Installs the needed packages
 
     pip install -r /Part2/requirements.txt
