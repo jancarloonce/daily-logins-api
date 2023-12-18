@@ -1,8 +1,3 @@
-# PART 1 Solution
-
-Solution implementation can be found at /part1/solution.py
-
-# PART 2 Solution
 
 REST API application is done using Flask Framework and the database used is Elasticsearch
 both are hosted on AWS. Flask on EC2 instance while Elasticsearch is on Elastic Beanstalk.
