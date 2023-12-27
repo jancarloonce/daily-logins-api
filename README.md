@@ -1,6 +1,6 @@
 
 REST API application is done using Flask Framework and the database used is Elasticsearch
-both are hosted on AWS. Flask on EC2 instance while Elasticsearch is on Elastic Beanstalk.
+both are hosted on AWS. Flask on EC2 instance while Elasticsearch is on Elastic Beanstalk. 
 
 
 A rough diagram shows the flow and tech stack:
