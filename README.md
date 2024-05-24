@@ -9,7 +9,7 @@ A rough diagram shows the flow and tech stack:
 
 # AWS Hosted Service
 
-You can try it LIVE here: http://3.25.177.132:8080/users/
+You can try it LIVE here: http://3.25.177.132:8080/users/ (DEPRECATED)
 
 
 ## Installs the needed packages
